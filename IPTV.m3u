@@ -201,10 +201,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m
 http://118.113.53.113:8848/udp/239.93.0.114:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="数字",快乐垂钓
 http://118.113.53.113:8848/udp/239.93.1.151:5140
-#EXTINF:-1 tvg-id="CETV1[高清]" tvg-name="CETV1[高清]" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="数字",CETV-1
-http://118.113.53.113:8848/udp/239.93.1.111:5140
-#EXTINF:-1 tvg-id="CETV-4高清" tvg-name="CETV-4高清" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="数字",CETV-4
-http://118.254.203.236:8888/rtp/239.76.252.254:9000
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="数字",欢笑剧场
 http://222.65.134.204:10000/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="法治天地" group-title="数字",法治天地
@@ -219,8 +215,6 @@ http://222.65.134.204:10000/udp/239.45.3.131:5140
 http://222.65.134.204:10000/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="都市剧场" group-title="数字",都市剧场
 http://222.65.134.204:10000/udp/239.45.3.136:5140
-#EXTINF:-1 tvg-name="金色学堂" group-title="数字",金色学堂
-http://222.65.134.204:10000/udp/239.45.1.118:5140
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="数字",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo2.png" group-title="数字",求索科学
