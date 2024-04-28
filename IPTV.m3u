@@ -202,7 +202,7 @@ http://118.113.53.113:8848/udp/239.93.0.114:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="数字",快乐垂钓
 http://118.113.53.113:8848/udp/239.93.1.151:5140
 #EXTINF:-1 tvg-id="CETV1[高清]" tvg-name="CETV1[高清]" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="数字",CETV-1
-http://221.219.66.252:18888/rtp/239.3.1.57:8152
+http://118.113.53.113:8848/udp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="CETV-4高清" tvg-name="CETV-4高清" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="数字",CETV-4
 http://118.254.203.236:8888/rtp/239.76.252.254:9000
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="数字",欢笑剧场
