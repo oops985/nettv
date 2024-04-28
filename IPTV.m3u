@@ -337,8 +337,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 tvg-name="民视新闻" group-title="YouTube「P」",民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="YouTube「P」",CCTV4中文国际
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="YouTube「P」",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 tvg-name="ABCNEWS" group-title="YouTube「P」",ABC NEWS
@@ -367,8 +365,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-name="NBCNEWS" group-title="YouTube「P」",NBC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" group-title="YouTube「P」",凤凰中文
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 tvg-name="TBSNEWS" group-title="YouTube「P」",TBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 tvg-name="大爱2" group-title="YouTube「P」",大爱2
@@ -381,10 +377,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1 tvg-name="HTBNEWS" group-title="YouTube「P」",HTB NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-#EXTINF:-1 tvg-name="国会频道1" group-title="YouTube「P」",国会频道1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-#EXTINF:-1 tvg-name="国会频道2" group-title="YouTube「P」",国会频道2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 #EXTINF:-1 tvg-name="123goLIVE" group-title="YouTube「P」",123 GO LIVE
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 #EXTINF:-1 tvg-name="半岛英语" group-title="YouTube「P」",半岛新闻「英语」
