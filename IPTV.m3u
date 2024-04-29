@@ -327,17 +327,9 @@ http://58.176.4.57:8800/play/a004
 http://58.176.4.57:8800/play/a00g
 #EXTINF:-1  group-title="其他" tvg-id="TVB Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvYJeUsmYsfNvxtspbdcOfkYZoA0qiOAAfvOO17OGTw&s",TVB Plus
 http://58.176.4.57:8800/play/a00c
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="http://gg.gg/15nn2h" group-title="其他",TVB News
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8#http://58.176.4.57:8800/play/a00d
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="http://gg.gg/15nn2h" group-title="其他",TVB News1
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8,http://58.176.4.57:8800/play/a00d
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="http://gg.gg/15nn2h" group-title="其他",TVB News2
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-http://58.176.4.57:8800/play/a00d
+http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
 #EXTINF:-1  group-title="其他" tvg-id="84" tvg-logo="http://gg.gg/15nn57",TVB Pearl
 http://58.176.4.57:8800/play/a00b
-#EXTINF:-1 tvg-id="無綫財經·資訊台" tvg-name="無綫財經·資訊台" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1200px-Phoenix_HK.svg.png" group-title="其他",Phoenix TV Hong Kong
-http://58.176.4.57:8800/play/a00e
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="其他",ViuTV6
 http://58.176.4.57:8800/play/a00h
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="其他",ViuTV
@@ -350,8 +342,11 @@ http://cfss.cc/cdn/hy/11342421.flv
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" group-title="其他",香港无线新闻台
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+http://58.176.4.57:8800/play/a00c
+http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
 #EXTINF:-1 tvg-name="三立INEWS" group-title="YouTube「P」",三立INEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" group-title="YouTube「P」",寰宇新闻
