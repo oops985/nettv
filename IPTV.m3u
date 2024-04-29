@@ -130,11 +130,13 @@ http://118.122.2.29:9999/hls/55/index.m3u8
 #EXTINF:-1 tvg-id="SCTV-7" tvg-name="SCTV-7" tvg-logo="https://live.fanmingming.com/tv/SCTV-7.png" group-title="地方",SCTV-7
 http://118.113.53.113:8848/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="地方",嘉佳卡通
-http://14.126.127.63:10001/udp/239.77.0.179:5146
+http://183.7.125.227:8088/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://14.126.127.63:10001/udp/239.77.0.215:5146
+http://183.7.125.227:8088/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="地方",广东珠江
-http://14.126.127.63:10001/udp/239.77.0.114:5146
+http://183.7.125.227:8088/udp/239.77.0.114:5146
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东综艺.png" group-title="地方",广东综艺
+http://183.7.125.227:8088/udp/239.77.1.237:5146
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方",BRTV纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方",BRTV卡酷少儿
@@ -315,6 +317,26 @@ https://edge2.laotv.la/live/Longxiang/index.m3u8
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" group-title="其他",TVB娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="香港國際財經台" tvg-name="香港國際財經台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/2b/HoYIBC_logo.png/220px-HoYIBC_logo.png" group-title="其他",HOY TV 76
+http://58.176.4.57:8800/play/a002
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/HOY_TV.png/revision/latest?cb=20230316043051&path-prefix=vi" group-title="其他",HOY TV 77
+http://58.176.4.57:8800/play/a003
+#EXTINF:-1 tvg-id="HOY TV 78" tvg-name="HOY TV 78" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest/scale-to-width-down/220?cb=20231221130037&path-prefix=vi" group-title="其他",HOY TV 78
+http://58.176.4.57:8800/play/a004
+#EXTINF:-1  group-title="其他" tvg-id="81" tvg-logo="http://gg.gg/15nn93",TVB Jade
+http://58.176.4.57:8800/play/a00g
+#EXTINF:-1  group-title="其他" tvg-id="82" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvYJeUsmYsfNvxtspbdcOfkYZoA0qiOAAfvOO17OGTw&s",TVB Plus
+http://58.176.4.57:8800/play/a00c
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://gg.gg/15nn2h" group-title="其他",TVB News
+http://58.176.4.57:8800/play/a00d
+#EXTINF:-1  group-title="其他" tvg-id="84" tvg-logo="http://gg.gg/15nn57",TVB Pearl
+http://58.176.4.57:8800/play/a00b
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Phoenix_HK.svg/1200px-Phoenix_HK.svg.png" group-title="其他",Phoenix TV Hong Kong
+http://58.176.4.57:8800/play/a00e
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="其他",ViuTV6
+http://58.176.4.57:8800/play/a00h
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="其他",ViuTV
+http://58.176.4.57:8800/play/a00i
 #EXTINF:-1 tvg-name="面包台" group-title="其他",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="林正英" group-title="其他",林正英
