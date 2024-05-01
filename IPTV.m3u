@@ -354,8 +354,6 @@ http://58.176.4.57:8800/play/a00h
 http://58.176.4.57:8800/play/a00i
 #EXTINF:-1 tvg-name="面包台" group-title="其他",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-name="林正英" group-title="其他",林正英
-http://cfss.cc/cdn/hy/11342421.flv
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="其他",亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" group-title="其他",香港无线新闻台
