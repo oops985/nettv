@@ -272,6 +272,56 @@ https://edge1.laotv.la/live/PhxChinese/index.m3u8
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="林正英" group-title="电影",林正英
+http://cfss.cc/cdn/hy/11342421.flv
+#EXTINF:-1 tvg-name="周星驰" group-title="电影",周星驰
+http://cfss.cc/cdn/hy/11342412.flv
+#EXTINF:-1 tvg-name="周润发" group-title="电影",周润发
+http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1 tvg-name="成龙" group-title="电影",成龙
+http://cfss.cc/cdn/hy/11342386.flv
+#EXTINF:-1 tvg-name="王晶" group-title="电影",王晶
+http://cfss.cc/cdn/hy/11602058.flv
+#EXTINF:-1 tvg-name="沈腾" group-title="电影",沈腾
+http://cfss.cc/cdn/hy/11601968.flv
+#EXTINF:-1 tvg-name="黄渤" group-title="电影",黄渤
+http://cfss.cc/cdn/hy/11352876.flv
+#EXTINF:-1 tvg-name="强森" group-title="电影",强森
+http://cfss.cc/cdn/hy/21059581.flv
+#EXTINF:-1 tvg-name="漫威" group-title="电影",漫威
+http://cfss.cc/cdn/hy/11602034.flv
+#EXTINF:-1 tvg-name="怪兽" group-title="电影",怪兽
+http://cfss.cc/cdn/hy/21059577.flv
+#EXTINF:-1 tvg-name="武侠" group-title="电影",武侠
+http://cfss.cc/cdn/hy/11342427.flv
+#EXTINF:-1 tvg-name="警匪" group-title="电影",警匪
+http://cfss.cc/cdn/hy/11352886.flv
+#EXTINF:-1 tvg-name="罪犯" group-title="电影",罪犯
+http://cfss.cc/cdn/hy/11352962.flv
+#EXTINF:-1 tvg-name="枪战" group-title="电影",枪战
+http://cfss.cc/cdn/hy/21059579.flv
+#EXTINF:-1 tvg-name="海盗" group-title="电影",海盗
+http://cfss.cc/cdn/hy/21059595.flv
+#EXTINF:-1 tvg-name="赛车" group-title="电影",赛车
+http://cfss.cc/cdn/hy/11279247.flv
+#EXTINF:-1 tvg-name="救援" group-title="电影",救援
+http://cfss.cc/cdn/hy/21059594.flv
+#EXTINF:-1 tvg-name="热血" group-title="电影",热血
+http://cfss.cc/cdn/hy/11352934.flv
+#EXTINF:-1 tvg-name="盗墓" group-title="电影",盗墓
+http://cfss.cc/cdn/hy/21059552.flv
+#EXTINF:-1 tvg-name="贺岁" group-title="电影",贺岁
+http://cfss.cc/cdn/hy/11601971.flv
+#EXTINF:-1 tvg-name="玄幻" group-title="电影",玄幻
+http://cfss.cc/cdn/hy/11342414.flv
+#EXTINF:-1 tvg-name="谍战" group-title="电影",谍战
+http://cfss.cc/cdn/hy/21059585.flv
+#EXTINF:-1 tvg-name="战争" group-title="电影",战争
+http://cfss.cc/cdn/hy/21059592.flv
+#EXTINF:-1 tvg-name="喜剧" group-title="电影",喜剧
+http://cfss.cc/cdn/hy/11352877.flv
+#EXTINF:-1 tvg-name="港片" group-title="电影",港片
+http://cfss.cc/cdn/hy/11602043.flv
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="其他",AXN
 http://222.217.231.116:8181/tsfile/live/1011_1.m3u8
 #EXTINF:-1,tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.112114.xyz/logo/东森电影.png" group-title="其他",东森电影
