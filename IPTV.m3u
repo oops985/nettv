@@ -244,7 +244,7 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225552/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="数字",超级视剧
+#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-name="newtv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="数字",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="newtv东北热剧" tvg-name="newtv东北热剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV东北热剧.png" group-title="数字",东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -351,12 +351,6 @@ http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
-#EXTINF:-1 tvg-name="东森电影" group-title="其他",东森电影
-http://171.108.239.90:8181/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-name="东森洋片" group-title="其他",东森洋片
-http://171.108.239.90:8181/tsfile/live/1016_1.m3u8
-#EXTINF:-1 tvg-name="东森超视" group-title="其他",东森超视
-http://171.108.239.90:8181/tsfile/live/1023_1.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",BBC
