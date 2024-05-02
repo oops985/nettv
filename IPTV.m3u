@@ -210,6 +210,8 @@ http://110.178.52.119:8084/udp/239.1.1.84:8084
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 #EXTINF:-1 tvg-id="wwbk" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="数字",欢笑剧场
 http://222.65.134.204:10000/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="法治天地" group-title="数字",法治天地
@@ -232,16 +234,12 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo3.png" group-title="数字",求索动物
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 #EXTINF:-1 tvg-id="360" tvg-name="古装剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV04.png" group-title="数字",古装剧场
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
 #EXTINF:-1 tvg-id="350" tvg-name="动作电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV03.png" group-title="数字",动作电影
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="430" tvg-name="农业致富" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV08.png" group-title="数字",农业致富
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225552/index.m3u8
-#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 tvg-id="newtv超级体育" tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="数字",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字",超级电影
@@ -282,8 +280,6 @@ http://118.122.2.29:9999/hls/60/index.m3u8
 https://edge1.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
-#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="卫视",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="林正英" group-title="电影",林正英
 http://cfss.cc/cdn/hy/11342421.flv
 #EXTINF:-1 tvg-name="周星驰" group-title="电影",周星驰
@@ -312,12 +308,8 @@ http://cfss.cc/cdn/hy/11352886.flv
 http://cfss.cc/cdn/hy/11352962.flv
 #EXTINF:-1 tvg-name="枪战" group-title="电影",枪战
 http://cfss.cc/cdn/hy/21059579.flv
-#EXTINF:-1 tvg-name="海盗" group-title="电影",海盗
-http://cfss.cc/cdn/hy/21059595.flv
 #EXTINF:-1 tvg-name="赛车" group-title="电影",赛车
 http://cfss.cc/cdn/hy/11279247.flv
-#EXTINF:-1 tvg-name="救援" group-title="电影",救援
-http://cfss.cc/cdn/hy/21059594.flv
 #EXTINF:-1 tvg-name="热血" group-title="电影",热血
 http://cfss.cc/cdn/hy/11352934.flv
 #EXTINF:-1 tvg-name="盗墓" group-title="电影",盗墓
@@ -328,8 +320,6 @@ http://cfss.cc/cdn/hy/11601971.flv
 http://cfss.cc/cdn/hy/11342414.flv
 #EXTINF:-1 tvg-name="谍战" group-title="电影",谍战
 http://cfss.cc/cdn/hy/21059585.flv
-#EXTINF:-1 tvg-name="战争" group-title="电影",战争
-http://cfss.cc/cdn/hy/21059592.flv
 #EXTINF:-1 tvg-name="喜剧" group-title="电影",喜剧
 http://cfss.cc/cdn/hy/11352877.flv
 #EXTINF:-1 tvg-name="港片" group-title="电影",港片
@@ -354,13 +344,10 @@ http://58.176.4.57:8800/play/a00b
 http://58.176.4.57:8800/play/a00h
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="其他",ViuTV
 http://58.176.4.57:8800/play/a00i
-#EXTINF:-1 tvg-name="面包台" group-title="其他",面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="其他",亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" group-title="其他",香港无线新闻台
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-http://58.176.4.57:8800/play/a00c
 #EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
