@@ -286,6 +286,8 @@ http://cfss.cc/cdn/hy/11342421.flv
 http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 tvg-name="周润发" group-title="电影",周润发
 http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1 tvg-name="" group-title="电影",周海媚
+http://cfss.cc/cdn/hy/11279247.flv
 #EXTINF:-1 tvg-name="成龙" group-title="电影",成龙
 http://cfss.cc/cdn/hy/11342386.flv
 #EXTINF:-1 tvg-name="王晶" group-title="电影",王晶
@@ -308,8 +310,6 @@ http://cfss.cc/cdn/hy/11352886.flv
 http://cfss.cc/cdn/hy/11352962.flv
 #EXTINF:-1 tvg-name="枪战" group-title="电影",枪战
 http://cfss.cc/cdn/hy/21059579.flv
-#EXTINF:-1 tvg-name="赛车" group-title="电影",赛车
-http://cfss.cc/cdn/hy/11279247.flv
 #EXTINF:-1 tvg-name="热血" group-title="电影",热血
 http://cfss.cc/cdn/hy/11352934.flv
 #EXTINF:-1 tvg-name="盗墓" group-title="电影",盗墓
