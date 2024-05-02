@@ -212,12 +212,12 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+#EXTINF:-1 tvg-name="CETV1" group-title="数字",CETV1
+http://222.65.134.204:10000/udp/239.45.1.125:5140
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="数字",欢笑剧场
 http://222.65.134.204:10000/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="法治天地" group-title="数字",法治天地
 http://222.65.134.204:10000/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-name="七彩戏剧" group-title="数字",七彩戏剧
-http://222.65.134.204:10000/udp/239.45.3.61:5140
 #EXTINF:-1 tvg-name="动漫秀场" group-title="数字",动漫秀场
 http://222.65.134.204:10000/udp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="游戏风云" group-title="数字",游戏风云
