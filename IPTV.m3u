@@ -110,7 +110,10 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 http://110.178.52.119:8084/udp/239.1.1.1:8001
 #EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.112114.xyz/logo/延边卫视.png" group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 tvg-id="四川经济" tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="地方",峨眉电影
+#EXTINF:-1 tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="地方",四川经济
+http://118.122.2.29:9999/hls/49/index.m3u8
+http://wouu.net:9977/udp/239.93.1.101:5140
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/峨眉电影.png" group-title="地方",峨眉电影
 http://118.122.2.29:9999/hls/49/index.m3u8
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="地方",四川文化旅游
 http://118.122.2.29:9999/hls/52/index.m3u8
@@ -277,7 +280,7 @@ http://118.122.2.29:9999/hls/59/index.m3u8
 #EXTINF:-1,tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="数字",全球大片
 http://118.122.2.29:9999/hls/60/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="卫视",凤凰中文
-https://edge1.laotv.la/live/PhxChinese/index.m3u8
+http://wouu.net:9977/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 tvg-name="林正英" group-title="电影",林正英
@@ -328,8 +331,6 @@ http://cfss.cc/cdn/hy/11602043.flv
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="其他",澳门莲花
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1,tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://epg.112114.xyz/logo/龙祥电影.png" group-title="其他",龙祥电影
-https://edge2.laotv.la/live/Longxiang/index.m3u8
 #EXTINF:-1 tvg-name="星空卫视" group-title="其他",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" group-title="其他",TVB娱乐新闻台
@@ -346,8 +347,6 @@ http://58.176.4.57:8800/play/a00h
 http://58.176.4.57:8800/play/a00i
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="其他",亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" group-title="其他",香港无线新闻台
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
 http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
 http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
