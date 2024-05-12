@@ -203,19 +203,19 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 tvg-name="CETV1" group-title="数字",CETV1
-http://222.65.134.204:10000/udp/239.45.1.125:5140
+http://222.71.11.180:4022/udp/239.45.1.125:5140
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="数字",欢笑剧场
-http://222.65.134.204:10000/udp/239.45.3.196:5140
+http://222.71.11.180:4022/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="法治天地" group-title="数字",法治天地
-http://222.65.134.204:10000/udp/239.45.1.46:5140
+http://222.71.11.180:4022/udp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="动漫秀场" group-title="数字",动漫秀场
-http://222.65.134.204:10000/udp/239.45.3.134:5140
+http://222.71.11.180:4022/udp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="游戏风云" group-title="数字",游戏风云
-http://222.65.134.204:10000/udp/239.45.3.131:5140
+http://222.71.11.180:4022/udp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="生活时尚" group-title="数字",生活时尚
-http://222.65.134.204:10000/udp/239.45.3.132:5140
+http://222.71.11.180:4022/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="都市剧场" group-title="数字",都市剧场
-http://222.65.134.204:10000/udp/239.45.3.136:5140
+http://222.71.11.180:4022/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo1.png" group-title="数字",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Qiusuo2.png" group-title="数字",求索科学
@@ -356,10 +356,6 @@ rtmp://220.130.201.73/sat/tv091
 rtmp://220.130.201.73/sat/tv111
 #EXTINF:-1 tvg-name="台視HD" group-title="其他",台視HD 
 rtmp://220.130.201.73/sat/tv071
-#EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
-P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
-#EXTINF:-1 tvg-name="龙祥电影" group-title="其他",龙祥电影
-mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
 #EXTINF:-1 group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",BBC
