@@ -292,7 +292,7 @@ http://cfss.cc/cdn/hy/11602043.flv
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" group-title="其他",澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="其他",澳门莲花
+#EXTINF:-1,tvg-id="澳门莲花" tvg-name="莲花卫视" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="其他",澳门莲花
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="其他",亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
