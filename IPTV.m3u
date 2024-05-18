@@ -306,9 +306,9 @@ rtmp://220.130.201.73/sat/tv771
 rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1 tvg-name="纬来精采台" group-title="其他",緯來精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="ELEVEN體育1台" group-title="其他",ELEVEN體育1台
+#EXTINF:-1 tvg-name="爱尔达体育1" group-title="其他",ELEVEN體育1台
 rtmp://220.130.201.73/sat/tv731
-#EXTINF:-1 tvg-name="ELEVEN體育2台" group-title="其他",ELEVEN體育2台
+#EXTINF:-1 tvg-name="爱尔达体育2" group-title="其他",ELEVEN體育2台
 rtmp://220.130.201.73/sat/tv741 
 #EXTINF:-1 tvg-name="八大第一" group-title="其他",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
