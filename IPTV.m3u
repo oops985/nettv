@@ -318,6 +318,10 @@ http://cfss.cc/cdn/hy/21059585.flv
 http://cfss.cc/cdn/hy/11352877.flv
 #EXTINF:-1 tvg-name="港片" group-title="电影",港片
 http://cfss.cc/cdn/hy/11602043.flv
+#EXTINF:-1 tvg-name="香港卫视" group-title="其他",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="其他",华丽翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="其他",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门Macau" group-title="其他",澳门Macau
