@@ -350,19 +350,19 @@ rtmp://220.130.201.73/sat/tv771
 rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" group-title="其他",緯來体育
 rtmp://220.130.201.73/sat/tv721
-#EXTINF:-1 tvg-name="爱尔达体育1" group-title="其他",ELEVEN體育1台
+#EXTINF:-1 tvg-name="ELEVEN 1" group-title="其他",ELEVEN 1台
 rtmp://220.130.201.73/sat/tv731
-#EXTINF:-1 tvg-name="爱尔达体育2" group-title="其他",ELEVEN體育2台
+#EXTINF:-1 tvg-name="ELEVEN 2" group-title="其他",ELEVEN 2台
 rtmp://220.130.201.73/sat/tv741 
-#EXTINF:-1 tvg-name="八大第一" group-title="其他",八大第一
+#EXTINF:-1 tvg-name="GTV八大第1台" group-title="其他",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="八大戏剧" group-title="其他",八大戏剧
+#EXTINF:-1 tvg-name="GTV八大戏剧台" group-title="其他",八大戏剧
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="八大综合" group-title="其他",八大综合
+#EXTINF:-1 tvg-name="GTV八大综合台" group-title="其他",八大综合
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="東森超視" group-title="其他",东森超视
+#EXTINF:-1 tvg-name="EBC东森超视" group-title="其他",东森超视
 rtmp://220.130.201.73/sat/tv331
 #EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
