@@ -328,28 +328,6 @@ http://cfss.cc/cdn/hy/11602043.flv
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="TVB Plus" group-title="其他",TVB Plus
 http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-#EXTINF:-1 tvg-name="Viu" group-title="其他",Viu
-https://histar.zapi.us.kg/?id=now-viu-drama
-#EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
-https://histar.zapi.us.kg/?id=feicui
-#EXTINF:-1 tvg-name="TVB 华剧台" group-title="其他",TVB 华剧台
-https://histar.zapi.us.kg/?id=tvb-drama
-#EXTINF:-1 tvg-name="龙祥时代" group-title="其他",龙祥时代
-https://histar.zapi.us.kg/?id=lstime
-#EXTINF:-1 tvg-name="纬来电影" group-title="其他",纬来电影
-https://histar.zapi.us.kg/?id=videoland-movie
-#EXTINF:-1 tvg-name="靖天电影" group-title="其他",靖天电影
-https://histar.zapi.us.kg/?id=jtdy
-#EXTINF:-1 tvg-name="Astro 欢喜台" group-title="其他",Astro 欢喜台
-https://histar.zapi.us.kg/?id=astro-huaheedai
-#EXTINF:-1 tvg-name="东森电影" group-title="其他",东森电影
-https://histar.zapi.us.kg/?id=ebc-movie
-#EXTINF:-1 tvg-name="Now 华剧台" group-title="其他",Now 华剧台
-https://histar.zapi.us.kg/?id=now-chinese-drama
-#EXTINF:-1 tvg-name="Now 爆谷台" group-title="其他",Now 爆谷台
-https://histar.zapi.us.kg/?id=baogu-movies
-#EXTINF:-1 tvg-name="Now 星影台" group-title="其他",Now 星影台
-https://histar.zapi.us.kg/?id=now-baogu-superstars
 #EXTINF:-1 tvg-name="星河" group-title="其他",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门卫星" group-title="其他",澳门Macau
@@ -370,15 +348,15 @@ rtmp://220.130.201.73/sat/tv771
 rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" group-title="其他",緯來体育
 rtmp://220.130.201.73/sat/tv721
-#EXTINF:-1 tvg-name="DAZN 1" group-title="其他",DAZN 1台
+#EXTINF:-1 tvg-name="DAZN 1台" group-title="其他",DAZN 1台
 rtmp://220.130.201.73/sat/tv731
-#EXTINF:-1 tvg-name="DAZN 2" group-title="其他",DAZN 2台
+#EXTINF:-1 tvg-name="DAZN 2台" group-title="其他",DAZN 2台
 rtmp://220.130.201.73/sat/tv741 
-#EXTINF:-1 tvg-name="GTV八大第1台" group-title="其他",八大第一
+#EXTINF:-1 tvg-name="GTV八大第1台" group-title="其他",GTV八大第1台
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="GTV八大戏剧台" group-title="其他",八大戏剧
+#EXTINF:-1 tvg-name="GTV八大戏剧台" group-title="其他",GTV八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="GTV八大综合台" group-title="其他",八大综合
+#EXTINF:-1 tvg-name="GTV八大综合台" group-title="其他",GTV八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
