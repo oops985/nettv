@@ -114,12 +114,10 @@ http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" group-title="卫视",兵团卫视
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
-#EXTINF:-1 tvg-name="广东珠江" group-title="地方",广东珠江
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-name="四川经济" group-title="地方",四川经济
 http://112.44.6.47:4022/udp/239.11.0.2:5140
 #EXTINF:-1 tvg-name="峨眉电影" group-title="地方",峨眉电影
@@ -234,8 +232,6 @@ http://171.208.14.218:9090/live/hxjchd/hls.m3u8
 http://171.208.14.218:9090/live/xsjhd/hls.m3u8
 #EXTINF:-1 tvg-name="乐游" group-title="数字",乐游
 http://171.208.14.218:9090/live/qjs/hls.m3u8
-#EXTINF:-1 tvg-name="BBC Earth" group-title="数字",BBC Earth
-http://171.208.14.218:9090/live/BBCEarth/hls.m3u8
 #EXTINF:-1 tvg-name="古装剧场" group-title="数字",古装剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-name="动作电影" group-title="数字",动作电影
@@ -332,6 +328,28 @@ http://cfss.cc/cdn/hy/11602043.flv
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="TVB Plus" group-title="其他",TVB Plus
 http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+#EXTINF:-1 tvg-name="Viu" group-title="其他",Viu
+https://histar.zapi.us.kg/?id=now-viu-drama
+#EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
+https://histar.zapi.us.kg/?id=feicui
+#EXTINF:-1 tvg-name="TVB 华剧台" group-title="其他",TVB 华剧台
+https://histar.zapi.us.kg/?id=tvb-drama
+#EXTINF:-1 tvg-name="龙祥时代" group-title="其他",龙祥时代
+https://histar.zapi.us.kg/?id=lstime
+#EXTINF:-1 tvg-name="纬来电影" group-title="其他",纬来电影
+https://histar.zapi.us.kg/?id=videoland-movie
+#EXTINF:-1 tvg-name="靖天电影" group-title="其他",靖天电影
+https://histar.zapi.us.kg/?id=jtdy
+#EXTINF:-1 tvg-name="Astro 欢喜台" group-title="其他",Astro 欢喜台
+https://histar.zapi.us.kg/?id=astro-huaheedai
+#EXTINF:-1 tvg-name="东森电影" group-title="其他",东森电影
+https://histar.zapi.us.kg/?id=ebc-movie
+#EXTINF:-1 tvg-name="Now 华剧台" group-title="其他",Now 华剧台
+https://histar.zapi.us.kg/?id=now-chinese-drama
+#EXTINF:-1 tvg-name="Now 爆谷台" group-title="其他",Now 爆谷台
+https://histar.zapi.us.kg/?id=baogu-movies
+#EXTINF:-1 tvg-name="Now 星影台" group-title="其他",Now 星影台
+https://histar.zapi.us.kg/?id=now-baogu-superstars
 #EXTINF:-1 tvg-name="星河" group-title="其他",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门卫星" group-title="其他",澳门Macau
