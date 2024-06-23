@@ -324,9 +324,9 @@ http://cfss.cc/cdn/hy/11352877.flv
 #EXTINF:-1 tvg-name="港片" group-title="电影",港片
 http://cfss.cc/cdn/hy/11602043.flv
 #EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
-http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+http://183.45.79.133:8889/bysid/1.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" group-title="其他",TVB Plus
-http://zsntlqj.xicp.net:8896/bysid/82.m3u8
+http://59.33.4.61:8896/bysid/82.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="其他",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门卫星" group-title="其他",澳门Macau
