@@ -323,16 +323,10 @@ http://cfss.cc/cdn/hy/21059585.flv
 http://cfss.cc/cdn/hy/11352877.flv
 #EXTINF:-1 tvg-name="港片" group-title="电影",港片
 http://cfss.cc/cdn/hy/11602043.flv
-#EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
-http://183.45.79.133:8889/bysid/1.m3u8
-#EXTINF:-1 tvg-name="TVB Plus" group-title="其他",TVB Plus
-http://59.33.4.61:8896/bysid/82.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="其他",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="澳门卫星" group-title="其他",澳门Macau
+#EXTINF:-1 tvg-name="澳门Macau" group-title="其他",澳门Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-name="澳视澳门" group-title="其他",澳视澳门
-https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" group-title="其他",澳门莲花
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="其他",亚洲武侠
