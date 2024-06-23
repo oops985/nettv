@@ -119,7 +119,7 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-name="四川经济" group-title="地方",四川经济
-http://112.44.6.47:4022/udp/239.11.0.2:5140
+http://iptv.10086.fund:23334/PLTV/88888888/224/3221227415/index.m3u8
 #EXTINF:-1 tvg-name="峨眉电影" group-title="地方",峨眉电影
 http://118.122.2.29:9999/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="四川文化旅游" group-title="地方",四川文化旅游
@@ -326,9 +326,11 @@ http://cfss.cc/cdn/hy/11352877.flv
 http://cfss.cc/cdn/hy/11602043.flv
 #EXTINF:-1 tvg-name="香港卫视" group-title="其他",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
+http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" group-title="其他",TVB Plus
 http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-#EXTINF:-1 tvg-name="星河" group-title="其他",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" group-title="其他",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门卫星" group-title="其他",澳门Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
