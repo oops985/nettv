@@ -117,7 +117,16 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" group-title="卫视",海峡卫视
+http://36.248.137.69:60033/tsfile/live/0150_1.m3u8
+#EXTINF:-1 tvg-name="广东珠江" group-title="地方",广东珠江
+http://www.zzlag.top:9087/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广东影视" group-title="地方",广东影视
+http://www.zzlag.top:9087/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="地方",大湾区卫视
+http://www.zzlag.top:9087/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="四川经济" group-title="地方",四川经济
+http://xeace.cn:8888/udp/239.93.1.101:5140
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227415/index.m3u8
 #EXTINF:-1 tvg-name="峨眉电影" group-title="地方",峨眉电影
 http://118.122.2.29:9999/hls/49/index.m3u8
@@ -323,6 +332,8 @@ http://cfss.cc/cdn/hy/21059585.flv
 http://cfss.cc/cdn/hy/11352877.flv
 #EXTINF:-1 tvg-name="港片" group-title="电影",港片
 http://cfss.cc/cdn/hy/11602043.flv
+#EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="TVB星河" group-title="其他",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门Macau" group-title="其他",澳门Macau
@@ -332,21 +343,10 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="其他",亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="星空卫视" group-title="其他",星空卫视
+http://yujukoo.gicp.net:8888/udp/239.93.0.156:2193
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="其他",TVB娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="其他",靖洋戲劇台
-http://37.27.111.214:8080/live/17/hls.m3u8
-#EXTINF:-1 tvg-name="靖天電影台" group-title="其他",靖天電影台
-http://37.27.111.214:8080/live/18/hls.m3u8
-#EXTINF:-1 tvg-name="東森新聞" group-title="其他",東森新聞
-http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
-http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS歡樂台" group-title="其他",TVBS歡樂台
-http://37.27.111.214:8080/live/24/hls.m3u8
-#EXTINF:-1 tvg-name="CinemaWorld" group-title="其他",CinemaWorld
-http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="緯來日本" group-title="其他",緯來日本
 rtmp://220.130.201.73/sat/tv771
 #EXTINF:-1 tvg-name="緯來育樂" group-title="其他",緯來育樂
