@@ -38,7 +38,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="CGTN" group-title="央视",CGTN
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 #EXTINF:-1 tvg-name="兵器科技" group-title="央视",兵器科技
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="第一剧场" group-title="央视",第一剧场
@@ -362,10 +362,15 @@ rtmp://220.130.201.73/sat/tv331
 #EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="民視" group-title="其他",民視HD
+http://37.27.111.214:8080/live/6/hls.m3u8
 rtmp://220.130.201.73/sat/tv051
+#EXTINF:-1 tvg-name="民視第一台" group-title="其他",民視第一台HD
+http://37.27.111.214:8080/live/4/hls.m3u8
 #EXTINF:-1 tvg-name="中視" group-title="其他",中視HD
+http://37.27.111.214:8080/live/7/hls.m3u8
 rtmp://220.130.201.73/sat/tv091
 #EXTINF:-1 tvg-name="華視" group-title="其他",華視HD
+http://37.27.111.214:8080/live/8/hls.m3u8
 rtmp://220.130.201.73/sat/tv111
 #EXTINF:-1 tvg-name="台視" group-title="其他",台視HD
 rtmp://220.130.201.73/sat/tv071
@@ -395,12 +400,12 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS歡樂台" group-title="其他",TVBS歡樂台
 http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 tvg-name="TVBS亚洲台" group-title="其他",TVBS亚洲台
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld" group-title="其他",CinemaWorld
 http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 tvg-name="中视新闻" group-title="其他",中视新闻mitv
-mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-#EXTINF:-1 tvg-name="台视新闻" group-title="其他",台视新闻p2p
-P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+#EXTINF:-1 tvg-name="中天娱樂" group-title="其他",中天娱樂
+https://bsex.serv00.net/Smart.php?id=ctient
 #EXTINF:-1 group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",BBC
