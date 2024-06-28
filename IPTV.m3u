@@ -348,7 +348,6 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="其他",亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="星空卫视" group-title="其他",星空卫视
-http://yujukoo.gicp.net:8888/udp/239.93.0.156:2193
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="其他",TVB娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
