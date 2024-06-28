@@ -407,7 +407,7 @@ https://bsex.serv00.net/Smart.php?id=axn_twn
 #EXTINF:-1 tvg-name="靖天電影台" group-title="其他",靖天電影台
 http://37.27.111.214:8080/live/18/hls.m3u8
 #EXTINF:-1 tvg-name="東森新聞" group-title="其他",東森新聞
-http://37.27.111.214:8080/live/20/hls.m3u8
+https://bsex.serv00.net/Smart.php?id=ettvnews
 #EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS歡樂台" group-title="其他",TVBS歡樂台
