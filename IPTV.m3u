@@ -120,12 +120,6 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" group-title="卫视",海峡卫视
 http://36.248.137.69:60033/tsfile/live/0150_1.m3u8
-#EXTINF:-1 tvg-name="广东珠江" group-title="地方",广东珠江
-http://www.zzlag.top:9087/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="广东影视" group-title="地方",广东影视
-http://www.zzlag.top:9087/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="地方",大湾区卫视
-http://www.zzlag.top:9087/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="四川经济" group-title="地方",四川经济
 http://xeace.cn:8888/udp/239.93.1.101:5140
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227415/index.m3u8
@@ -419,6 +413,8 @@ http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="中天娱樂" group-title="其他",中天娱樂
 https://bsex.serv00.net/Smart.php?id=ctient
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1 tvg-name="中天綜合" group-title="其他",中天綜合
+https://bsex.serv00.net/Smart.php?id=ctizhonghe
 #EXTINF:-1 group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",BBC
