@@ -351,35 +351,38 @@ rtmp://220.130.201.73/sat/tv771
 rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" group-title="其他",緯來体育
 rtmp://220.130.201.73/sat/tv721
-#EXTINF:-1 tvg-name="DAZN 1台" group-title="其他",DAZN 1台
+#EXTINF:-1 tvg-name="DAZN 1台" group-title="其他",DAZN 1
 rtmp://220.130.201.73/sat/tv731
-#EXTINF:-1 tvg-name="DAZN 2台" group-title="其他",DAZN 2台
-rtmp://220.130.201.73/sat/tv741 
-#EXTINF:-1 tvg-name="GTV八大第1台" group-title="其他",GTV八大第1台
+#EXTINF:-1 tvg-name="DAZN 2台" group-title="其他",DAZN 2
+rtmp://220.130.201.73/sat/tv741
+#EXTINF:-1 tvg-name="EBC东森超视" group-title="其他",东森超视
+rtmp://220.130.201.73/sat/tv331
+#EXTINF:-1 tvg-name="八大第一" group-title="其他",八大第一
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="GTV八大戏剧台" group-title="其他",GTV八大戏剧台
+#EXTINF:-1 tvg-name="八大戏剧" group-title="其他",八大戏剧
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="GTV八大综合台" group-title="其他",GTV八大综合台
+#EXTINF:-1 tvg-name="八大综合" group-title="其他",八大综合
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="EBC东森超视" group-title="其他",东森超视
-rtmp://220.130.201.73/sat/tv331
-#EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
-http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="民視" group-title="其他",民視HD
 http://37.27.111.214:8080/live/6/hls.m3u8
 rtmp://220.130.201.73/sat/tv051
 #EXTINF:-1 tvg-name="民視第一台" group-title="其他",民視第一台HD
 http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 tvg-name="民視新闻" group-title="其他",民視新闻HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-name="中視" group-title="其他",中視HD
-http://37.27.111.214:8080/live/7/hls.m3u8
 rtmp://220.130.201.73/sat/tv091
+#EXTINF:-1 tvg-name="中視新闻" group-title="其他",中視新闻HD
+http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="華視" group-title="其他",華視HD
 http://37.27.111.214:8080/live/8/hls.m3u8
 rtmp://220.130.201.73/sat/tv111
 #EXTINF:-1 tvg-name="台視" group-title="其他",台視HD
 rtmp://220.130.201.73/sat/tv071
+#EXTINF:-1 tvg-name="台視新闻" group-title="其他",台視新闻HD
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-name="ETRV中国" group-title="其他",ETRV中国
 http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
 #EXTINF:-1 tvg-name="ETRV美国" group-title="其他",ETRV美国
@@ -388,14 +391,18 @@ http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS歡樂台" group-title="其他",TVBS歡樂台
 http://37.27.111.214:8080/live/24/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS亚洲台" group-title="其他",TVBS亚洲台
+#EXTINF:-1 tvg-name="TVBS Asia" group-title="其他",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld" group-title="其他",CinemaWorld
 http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="其他",靖洋戲劇台
+#EXTINF:-1 tvg-name="靖洋戲劇" group-title="其他",靖洋戲劇
 http://37.27.111.214:8080/live/17/hls.m3u8
-#EXTINF:-1 tvg-name="靖天電影台" group-title="其他",靖天電影台
+#EXTINF:-1 tvg-name="靖天電影" group-title="其他",靖天電影
 http://37.27.111.214:8080/live/18/hls.m3u8
+#EXTINF:-1 tvg-name="momo tv" group-title="其他",momo tv
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 tvg-name="東森新聞" group-title="其他",東森新聞
+http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-name="龍祥時代" group-title="其他",龍祥時代
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="東森綜合" group-title="其他",東森綜合
@@ -412,8 +419,6 @@ https://bsex.serv00.net/Smart.php?id=cinemax_twn
 https://bsex.serv00.net/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="AXN" group-title="其他",AXN
 https://bsex.serv00.net/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="東森新聞" group-title="其他",東森新聞
-https://bsex.serv00.net/Smart.php?id=ettvnews
 #EXTINF:-1 tvg-name="中天娱樂" group-title="其他",中天娱樂
 https://bsex.serv00.net/Smart.php?id=ctient
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
