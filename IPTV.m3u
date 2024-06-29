@@ -336,8 +336,9 @@ http://cfss.cc/cdn/hy/21059585.m3u8
 http://cfss.cc/cdn/hy/11352877.m3u8
 #EXTINF:-1 tvg-name="港片" group-title="电影",港片
 http://cfss.cc/cdn/hy/11602043.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台 P
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 tvg-name="TVB星河" group-title="其他",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门Macau" group-title="其他",澳门Macau
@@ -410,32 +411,42 @@ http://37.27.111.214:8080/live/18/hls.m3u8
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" group-title="其他",东森新闻台
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 tvg-name="LSTime电影台" group-title="其他",LSTime电影台
+#EXTINF:-1 tvg-name="LSTime电影台" group-title="其他",LSTime电影台 P
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="东森综合台" group-title="其他",东森综合台
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="东森综合台" group-title="其他",东森综合台 P
 https://bsex.serv00.net/Smart.php?id=ettvzhonghe
-#EXTINF:-1 tvg-name="东森电影台" group-title="其他",东森电影台
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="东森电影台" group-title="其他",东森电影台 P
 https://bsex.serv00.net/Smart.php?id=ettvmovie
-#EXTINF:-1 tvg-name="东森洋片台" group-title="其他",东森洋片台
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="东森洋片台" group-title="其他",东森洋片台 P
 https://bsex.serv00.net/Smart.php?id=ettvwestern
-#EXTINF:-1 tvg-name="东森戏剧台" group-title="其他",东森戏剧台
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="东森戏剧台" group-title="其他",东森戏剧台 P
 https://bsex.serv00.net/Smart.php?id=ettvdrama
-#EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX P
 https://bsex.serv00.net/Smart.php?id=cinemax_twn
-#EXTINF:-1 tvg-name="HBO" group-title="其他",HBO
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="HBO" group-title="其他",HBO P
 https://bsex.serv00.net/Smart.php?id=hbohd_twn
-#EXTINF:-1 tvg-name="AXN" group-title="其他",AXN
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="AXN" group-title="其他",AXN P
 https://bsex.serv00.net/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台 P
 https://bsex.serv00.net/Smart.php?id=ctient
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-#EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台
+#EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台 P
 https://bsex.serv00.net/Smart.php?id=ctizhonghe
 http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
-#EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
+#EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台 P
 https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
-#EXTINF:-1 tvg-name="三立综合台" group-title="其他",三立综合台
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="三立综合台" group-title="其他",三立综合台 P
 https://bsex.serv00.net/Smart.php?id=sanlizhonghe
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 #EXTINF:-1 group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",BBC
