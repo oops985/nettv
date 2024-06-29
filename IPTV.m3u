@@ -345,44 +345,44 @@ http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="其他",TVB娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="緯來日本" group-title="其他",緯來日本
+#EXTINF:-1 tvg-name="纬来日本台" group-title="其他",纬来日本台
 rtmp://220.130.201.73/sat/tv771
-#EXTINF:-1 tvg-name="緯來育樂" group-title="其他",緯來育樂
+#EXTINF:-1 tvg-name="纬来育乐台" group-title="其他",纬来育乐台
 rtmp://220.130.201.73/sat/tv701
-#EXTINF:-1 tvg-name="纬来体育" group-title="其他",緯來体育
+#EXTINF:-1 tvg-name="纬来体育台" group-title="其他",纬来体育台
 rtmp://220.130.201.73/sat/tv721
-#EXTINF:-1 tvg-name="DAZN 1台" group-title="其他",DAZN 1
+#EXTINF:-1 tvg-name="DAZN 1" group-title="其他",DAZN 1
 rtmp://220.130.201.73/sat/tv731
-#EXTINF:-1 tvg-name="DAZN 2台" group-title="其他",DAZN 2
+#EXTINF:-1 tvg-name="DAZN 2" group-title="其他",DAZN 2
 rtmp://220.130.201.73/sat/tv741
 #EXTINF:-1 tvg-name="EBC东森超视" group-title="其他",东森超视
 rtmp://220.130.201.73/sat/tv331
-#EXTINF:-1 tvg-name="八大第一" group-title="其他",八大第一
+#EXTINF:-1 tvg-name="八大第一台" group-title="其他",八大第一台
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="八大戏剧" group-title="其他",八大戏剧
+#EXTINF:-1 tvg-name="八大戏剧台" group-title="其他",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="八大综合" group-title="其他",八大综合
+#EXTINF:-1 tvg-name="八大综合台" group-title="其他",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="民視" group-title="其他",民視HD
+#EXTINF:-1 tvg-name="民视" group-title="其他",民视
 http://37.27.111.214:8080/live/6/hls.m3u8
 rtmp://220.130.201.73/sat/tv051
-#EXTINF:-1 tvg-name="民視第一台" group-title="其他",民視第一台HD
+#EXTINF:-1 tvg-name="民视第一台" group-title="其他",民视第一台
 http://37.27.111.214:8080/live/4/hls.m3u8
-#EXTINF:-1 tvg-name="民視新闻" group-title="其他",民視新闻HD
+#EXTINF:-1 tvg-name="民视新闻台" group-title="其他",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-name="中視" group-title="其他",中視HD
+#EXTINF:-1 tvg-name="中视" group-title="其他",中视
 rtmp://220.130.201.73/sat/tv091
-#EXTINF:-1 tvg-name="中視新闻" group-title="其他",中視新闻HD
+#EXTINF:-1 tvg-name="中视新闻台" group-title="其他",中视新闻台
 http://37.27.111.214:8080/live/7/hls.m3u8
-#EXTINF:-1 tvg-name="華視" group-title="其他",華視HD
+#EXTINF:-1 tvg-name="华视" group-title="其他",华视
 rtmp://220.130.201.73/sat/tv111
-#EXTINF:-1 tvg-name="華視新闻" group-title="其他",華視新闻HD
+#EXTINF:-1 tvg-name="华视新闻" group-title="其他",華視新闻
 http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 tvg-name="台視" group-title="其他",台視HD
+#EXTINF:-1 tvg-name="台视" group-title="其他",台视
 rtmp://220.130.201.73/sat/tv071
-#EXTINF:-1 tvg-name="台視新闻" group-title="其他",台視新闻HD
+#EXTINF:-1 tvg-name="台视新闻" group-title="其他",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-name="ETRV中国" group-title="其他",ETRV中国
 http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
@@ -390,29 +390,29 @@ http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
 http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS歡樂台" group-title="其他",TVBS歡樂台
+#EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVB欢乐台
 http://37.27.111.214:8080/live/24/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS Asia" group-title="其他",TVBS亚洲台
+#EXTINF:-1 tvg-name="TVBS Asia" group-title="其他",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld" group-title="其他",CinemaWorld
 http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 tvg-name="靖洋戲劇" group-title="其他",靖洋戲劇
+#EXTINF:-1 tvg-name="靖洋戏剧台" group-title="其他",靖洋戏剧台
 http://37.27.111.214:8080/live/17/hls.m3u8
-#EXTINF:-1 tvg-name="靖天電影" group-title="其他",靖天電影
+#EXTINF:-1 tvg-name="靖天电影台" group-title="其他",靖天电影台
 http://37.27.111.214:8080/live/18/hls.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="其他",Nickelodeon
 http://37.27.111.214:8080/live/12/hls.m3u8
-#EXTINF:-1 tvg-name="東森新聞" group-title="其他",東森新聞
+#EXTINF:-1 tvg-name="东森新闻台" group-title="其他",东森新闻台
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 tvg-name="龍祥時代" group-title="其他",龍祥時代
+#EXTINF:-1 tvg-name="LSTime电影台" group-title="其他",LSTime电影台
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="東森綜合" group-title="其他",東森綜合
+#EXTINF:-1 tvg-name="东森综合台" group-title="其他",东森综合台
 https://bsex.serv00.net/Smart.php?id=ettvzhonghe
-#EXTINF:-1 tvg-name="東森電影" group-title="其他",東森電影
+#EXTINF:-1 tvg-name="东森电影台" group-title="其他",东森电影台
 https://bsex.serv00.net/Smart.php?id=ettvmovie
-#EXTINF:-1 tvg-name="東森洋片" group-title="其他",東森洋片
+#EXTINF:-1 tvg-name="东森洋片台" group-title="其他",东森洋片台
 https://bsex.serv00.net/Smart.php?id=ettvwestern
-#EXTINF:-1 tvg-name="東森戲劇" group-title="其他",東森戲劇
+#EXTINF:-1 tvg-name="东森戏剧台" group-title="其他",东森戏剧台
 https://bsex.serv00.net/Smart.php?id=ettvdrama
 #EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
 https://bsex.serv00.net/Smart.php?id=cinemax_twn
@@ -420,15 +420,15 @@ https://bsex.serv00.net/Smart.php?id=cinemax_twn
 https://bsex.serv00.net/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="AXN" group-title="其他",AXN
 https://bsex.serv00.net/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="中天娱樂" group-title="其他",中天娱樂
+#EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
 https://bsex.serv00.net/Smart.php?id=ctient
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-#EXTINF:-1 tvg-name="中天綜合" group-title="其他",中天綜合
+#EXTINF:-1 tvg-name="中天综合台" group-title="其他",中天综合台
 https://bsex.serv00.net/Smart.php?id=ctizhonghe
 http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
-#EXTINF:-1 tvg-name="三立戲劇" group-title="其他",三立戲劇
+#EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
 https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
-#EXTINF:-1 tvg-name="三立綜合" group-title="其他",三立綜合
+#EXTINF:-1 tvg-name="三立综合台" group-title="其他",三立综合台
 https://bsex.serv00.net/Smart.php?id=sanlizhonghe
 #EXTINF:-1 group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
