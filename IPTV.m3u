@@ -284,6 +284,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://118.122.2.29:9999/hls/59/index.m3u8
 #EXTINF:-1 tvg-name="全球大片" group-title="数字",全球大片
 http://118.122.2.29:9999/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="法治天地" group-title="数字",法治天地
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/fztx_4000.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="卫视",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
