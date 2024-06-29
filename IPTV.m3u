@@ -377,8 +377,9 @@ rtmp://220.130.201.73/sat/tv091
 #EXTINF:-1 tvg-name="中視新闻" group-title="其他",中視新闻HD
 http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="華視" group-title="其他",華視HD
-http://37.27.111.214:8080/live/8/hls.m3u8
 rtmp://220.130.201.73/sat/tv111
+#EXTINF:-1 tvg-name="華視新闻" group-title="其他",華視新闻HD
+http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-name="台視" group-title="其他",台視HD
 rtmp://220.130.201.73/sat/tv071
 #EXTINF:-1 tvg-name="台視新闻" group-title="其他",台視新闻HD
@@ -399,8 +400,8 @@ http://37.27.111.214:8080/live/30/hls.m3u8
 http://37.27.111.214:8080/live/17/hls.m3u8
 #EXTINF:-1 tvg-name="靖天電影" group-title="其他",靖天電影
 http://37.27.111.214:8080/live/18/hls.m3u8
-#EXTINF:-1 tvg-name="momo tv" group-title="其他",momo tv
-http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="其他",Nickelodeon
+http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 tvg-name="東森新聞" group-title="其他",東森新聞
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-name="龍祥時代" group-title="其他",龍祥時代
@@ -425,6 +426,10 @@ http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226
 #EXTINF:-1 tvg-name="中天綜合" group-title="其他",中天綜合
 https://bsex.serv00.net/Smart.php?id=ctizhonghe
 http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 tvg-name="三立戲劇" group-title="其他",三立戲劇
+https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-name="三立綜合" group-title="其他",三立綜合
+https://bsex.serv00.net/Smart.php?id=sanlizhonghe
 #EXTINF:-1 group-title="国际",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",BBC
