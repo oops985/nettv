@@ -414,18 +414,15 @@ http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=192
 #EXTINF:-1 tvg-name="LSTime电影台" group-title="其他",LSTime电影台
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
-#EXTINF:-1 tvg-name="东森综合台" group-title="其他",东森综合台
-https://bsex.serv00.net/Smart.php?id=ettvzhonghe
-http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 #EXTINF:-1 tvg-name="东森电影台" group-title="其他",东森电影台
+https://stream1.freetv.fun/dong-sen-dian-ying-5.m3u8
 https://bsex.serv00.net/Smart.php?id=ettvmovie
-http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 #EXTINF:-1 tvg-name="东森洋片台" group-title="其他",东森洋片台
+https://stream1.freetv.fun/dong-sen-yang-pian-5.m3u8
 https://bsex.serv00.net/Smart.php?id=ettvwestern
-http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 #EXTINF:-1 tvg-name="东森戏剧台" group-title="其他",东森戏剧台
+https://stream1.freetv.fun/dong-sen-xi-ju-2.m3u8
 https://bsex.serv00.net/Smart.php?id=ettvdrama
-http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 #EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
 https://bsex.serv00.net/Smart.php?id=cinemax_twn
 http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
