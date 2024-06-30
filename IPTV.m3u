@@ -411,6 +411,11 @@ http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 tvg-name="viu" group-title="其他",viu
+https://stream1.freetv.fun/viutv-7.m3u8
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 tvg-name="viusix" group-title="其他",viusix
+https://stream1.freetv.fun/viutvsix-3.m3u8
 #EXTINF:-1 tvg-name="LSTime电影台" group-title="其他",LSTime电影台
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
@@ -480,8 +485,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际",Disney International
-http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",Fight Network
