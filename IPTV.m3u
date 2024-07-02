@@ -362,15 +362,20 @@ http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 https://stream1.freetv.fun/xing-kong-wei-shi-5.m3u8
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="纬来日本台" group-title="其他",纬来日本台
+https://z02.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
 rtmp://220.130.201.73/sat/tv771
 #EXTINF:-1 tvg-name="纬来育乐台" group-title="其他",纬来育乐台
+https://z02.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
 rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育台" group-title="其他",纬来体育台
+https://stream1.freetv.fun/wei-lai-ti-yu-9.m3u8
 rtmp://220.130.201.73/sat/tv721
 #EXTINF:-1 tvg-name="纬来精采台" group-title="其他",纬来精采台
+https://z02.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="纬来电影" group-title="其他",纬来电影
 https://z02.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+https://stream1.freetv.fun/wei-lai-dian-ying-2.m3u8
 #EXTINF:-1 tvg-name="纬来戏剧" group-title="其他",纬来戏剧
 https://z02.ubtvfans.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
 #EXTINF:-1 tvg-name="DAZN 1" group-title="其他",DAZN 1
