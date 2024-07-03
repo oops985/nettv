@@ -454,10 +454,9 @@ https://bsex.serv00.net/Smart.php?id=cinemax_twn
 #EXTINF:-1 tvg-name="HBO" group-title="其他",HBO
 https://z02.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 https://bsex.serv00.net/Smart.php?id=hbohd_twn
-http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
 #EXTINF:-1 tvg-name="AXN" group-title="其他",AXN
-https://bsex.serv00.net/Smart.php?id=axn_twn
 https://z02.ubtvfans.com/live/rx1/2816/234280df0cd47c152708748c0ec2363e/index.m3u8
+https://bsex.serv00.net/Smart.php?id=axn_twn
 #EXTINF:-1 tvg-name="中天娱乐台" group-title="其他",中天娱乐台
 https://z02.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 https://bsex.serv00.net/Smart.php?id=ctient
@@ -465,7 +464,7 @@ https://bsex.serv00.net/Smart.php?id=ctient
 https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 https://bsex.serv00.net/Smart.php?id=ctizhonghe
 #EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
-http://61.221.215.25:8800/hls/41/index.m3u8
+https://stream1.freetv.fun/san-li-xi-ju-1.m3u8
 https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
 #EXTINF:-1 tvg-name="三立综合台" group-title="其他",三立综合台
 https://z02.ubtvfans.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8
