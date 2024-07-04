@@ -368,7 +368,7 @@ rtmp://220.130.201.73/sat/tv771
 https://z02.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
 rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育台" group-title="其他",纬来体育台
-https://stream1.freetv.fun/wei-lai-ti-yu-9.m3u8
+https://stream1.freetv.fun/wei-lai-ti-yu-2.m3u8
 rtmp://220.130.201.73/sat/tv721
 #EXTINF:-1 tvg-name="纬来精采台" group-title="其他",纬来精采台
 https://z02.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
@@ -439,6 +439,8 @@ http://37.27.111.214:8080/live/24/hls.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld" group-title="其他",CinemaWorld
 http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 tvg-name="龙华电影台" group-title="其他",龙华电影台
+http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-name="靖洋戏剧台" group-title="其他",靖洋戏剧台
 http://37.27.111.214:8080/live/17/hls.m3u8
 #EXTINF:-1 tvg-name="靖天电影台" group-title="其他",靖天电影台
@@ -446,6 +448,9 @@ http://37.27.111.214:8080/live/18/hls.m3u8
 #EXTINF:-1 tvg-name="LSTime电影台" group-title="其他",LSTime电影台
 https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="美亚电影台" group-title="其他",美亚电影台
+https://stream1.freetv.fun/mei-ya-dian-ying-3.m3u8
+https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="其他",Nickelodeon
 http://37.27.111.214:8080/live/12/hls.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
