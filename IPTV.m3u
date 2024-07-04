@@ -217,6 +217,10 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-name="爱上4K" group-title="数字",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-name="华语影院" group-title="数字",华语影院
+http://118.122.2.29:9999/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="全球大片" group-title="数字",全球大片
+http://118.122.2.29:9999/hls/60/index.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" group-title="数字",CHC高清电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="数字",CHC家庭影院
@@ -280,10 +284,6 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="newtv欢乐剧场" group-title="数字",欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-name="华语影院" group-title="数字",华语影院
-http://118.122.2.29:9999/hls/59/index.m3u8
-#EXTINF:-1 tvg-name="全球大片" group-title="数字",全球大片
-http://118.122.2.29:9999/hls/60/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" group-title="数字",法治天地
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/fztx_4000.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="卫视",凤凰中文
@@ -448,7 +448,7 @@ http://37.27.111.214:8080/live/18/hls.m3u8
 #EXTINF:-1 tvg-name="LSTime电影台" group-title="其他",LSTime电影台
 https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="美亚电影台" group-title="其他",美亚电影台
+#EXTINF:-1 tvg-name="美亚高清电影台" group-title="其他",美亚高清电影台
 https://stream1.freetv.fun/mei-ya-dian-ying-3.m3u8
 https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="其他",Nickelodeon
