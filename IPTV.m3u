@@ -382,9 +382,11 @@ rtmp://220.130.201.73/sat/tv721
 rtmp://220.130.201.73/sat/tv731
 #EXTINF:-1 tvg-name="DAZN 2" group-title="其他",DAZN 2
 rtmp://220.130.201.73/sat/tv741
-#EXTINF:-1 tvg-name="EBC东森超视" group-title="其他",东森超视
+#EXTINF:-1 tvg-name="东森超视" group-title="其他",东森超视
 https://z02.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
 rtmp://220.130.201.73/sat/tv331
+#EXTINF:-1 tvg-name="超视34.5" group-title="其他",超视34.5
+http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" group-title="其他",东森新闻台
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 tvg-name="东森电影台" group-title="其他",东森电影台
@@ -432,10 +434,12 @@ http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
 #EXTINF:-1 tvg-name="ETRV美国" group-title="其他",ETRV美国
 http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
+https://z02.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
 http://37.27.111.214:8080/live/24/hls.m3u8
-#EXTINF:-1 tvg-name="TVBS Asia" group-title="其他",TVBS Asia
+#EXTINF:-1 tvg-name="TVBSAsia" group-title="其他",TVBSAsia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld" group-title="其他",CinemaWorld
 http://37.27.111.214:8080/live/30/hls.m3u8
