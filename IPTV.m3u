@@ -448,6 +448,7 @@ http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-name="靖洋戏剧台" group-title="其他",靖洋戏剧台
 http://37.27.111.214:8080/live/17/hls.m3u8
 #EXTINF:-1 tvg-name="靖天电影台" group-title="其他",靖天电影台
+https://z02.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
 http://37.27.111.214:8080/live/18/hls.m3u8
 #EXTINF:-1 tvg-name="LSTime电影台" group-title="其他",LSTime电影台
 https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
