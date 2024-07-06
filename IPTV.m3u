@@ -463,7 +463,7 @@ http://37.27.111.214:8080/live/24/hls.m3u8
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="其他",龙华电影
 http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 tvg-name="龙祥电影" group-title="其他",龙祥电影
+#EXTINF:-1 tvg-name="龙祥时代" group-title="其他",龙祥时代
 https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="美亚电影台" group-title="其他",美亚电影台
