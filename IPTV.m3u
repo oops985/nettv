@@ -425,9 +425,6 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="八大娱乐台" group-title="其他",八大娱乐台
 https://z02.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
-#EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
-http://61.221.215.25:8800/hls/43/index.m3u8
-https://z02.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="其他",民视
 http://37.27.111.214:8080/live/6/hls.m3u8
 rtmp://220.130.201.73/sat/tv051
@@ -473,6 +470,9 @@ https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 https://z02.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
 https://stream1.freetv.fun/mei-ya-dian-ying-3.m3u8
 https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
+https://z02.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
 https://z02.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
 https://bsex.serv00.net/Smart.php?id=cinemax_twn
