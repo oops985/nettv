@@ -362,6 +362,8 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="星空卫视" group-title="其他",星空卫视
+http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
+https://z02.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
 https://stream1.freetv.fun/xing-kong-wei-shi-5.m3u8
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-name="纬来日本台" group-title="其他",纬来日本台
