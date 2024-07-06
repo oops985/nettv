@@ -452,7 +452,11 @@ http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
 #EXTINF:-1 tvg-name="ETRV美国" group-title="其他",ETRV美国
 http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-name="TVBS" group-title="其他",TVBS
+#EXTINF:-1 tvg-name="TVBS HD" group-title="其他",TVBS HD
+https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+#EXTINF:-1 tvg-name="TVBS亚洲台" group-title="其他",TVBS亚洲台
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
@@ -462,7 +466,7 @@ http://37.27.111.214:8080/live/24/hls.m3u8
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="其他",龙华电影
 http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 tvg-name="龙翔电影" group-title="其他",龙翔电影
+#EXTINF:-1 tvg-name="龙祥电影" group-title="其他",龙祥电影
 https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="美亚电影台" group-title="其他",美亚电影台
