@@ -223,6 +223,8 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 #EXTINF:-1 tvg-name="甘肃文化影视" group-title="地方",甘肃文化
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
+#EXTINF:-1 tvg-name="文旅频道" group-title="地方",文旅频道
+http://[2409:8087:74d9:21::6]/270000001111/1110000330/index.m3u8
 #EXTINF:-1 tvg-name="星光电影台" group-title="数字",星光电影台
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-name="爱上4K" group-title="数字",爱上4K
@@ -412,6 +414,7 @@ https://z02.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
 http://37.27.111.214:8080/live/20/hls.m3u8
 https://z02.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
 #EXTINF:-1 tvg-name="东森电影" group-title="其他",东森电影
+https://z02.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
 https://z02.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
 https://stream1.freetv.fun/dong-sen-dian-ying-5.m3u8
 https://bsex.serv00.net/Smart.php?id=ettvmovie
@@ -437,6 +440,8 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="八大娱乐台" group-title="其他",八大娱乐台
 https://z02.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
+#EXTINF:-1 tvg-name="年代much" group-title="其他",年代much
+https://z02.ubtvfans.com/live/rx2/1359/6e0559f331258fcf623b86a7ceb6de18/index.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="其他",民视
 https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 http://37.27.111.214:8080/live/6/hls.m3u8
@@ -482,6 +487,10 @@ http://37.27.111.214:8080/live/24/hls.m3u8
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="其他",龙华电影
 http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" group-title="其他",龙华戏剧
+https://z02.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" group-title="其他",龙华偶像
+https://z02.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
 #EXTINF:-1 tvg-name="龙祥时代" group-title="其他",龙祥时代
 https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
@@ -489,6 +498,8 @@ https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 https://z02.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
 https://stream1.freetv.fun/mei-ya-dian-ying-3.m3u8
 https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="壹电影" group-title="其他",壹电影
+https://z02.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 https://z02.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
@@ -504,6 +515,12 @@ https://z02.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3
 #EXTINF:-1 tvg-name="AXN_twn" group-title="其他",AXN_twn
 https://z02.ubtvfans.com/live/rx1/2816/234280df0cd47c152708748c0ec2363e/index.m3u8
 https://bsex.serv00.net/Smart.php?id=axn_twn
+#EXTINF:-1 tvg-name="CATCHPLAY" group-title="其他",CATCHPLAY
+https://z02.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
+#EXTINF:-1 tvg-name="好莱坞电影" group-title="其他",好莱坞电影
+https://z02.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
+#EXTINF:-1 tvg-name="華納電影" group-title="其他",華納電影
+https://z02.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8
 #EXTINF:-1 tvg-name="靖洋戏剧台" group-title="其他",靖洋戏剧台
 https://z02.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 http://37.27.111.214:8080/live/17/hls.m3u8
