@@ -353,8 +353,6 @@ https://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="J2" group-title="其他",J2
 https://z02.ubtvfans.com/live/rx1/2834/c4e8a90ec43d655efcd7a5b1f05120d1/index.m3u8
-#EXTINF:-1 tvg-name="TVB亚洲剧台" group-title="其他",TVB亚洲剧台
-https://z02.ubtvfans.com/live/rx1/1048/1fca2f643298a4e188bbe00ad6d7b60e/index.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="其他",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -465,13 +463,9 @@ http://37.27.111.214:8080/live/19/hls.m3u8
 https://z02.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" group-title="其他",龙华偶像
 https://z02.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
-#EXTINF:-1 tvg-name="龙祥时代" group-title="其他",龙祥时代
-https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u8
-https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="美亚电影台" group-title="其他",美亚电影台
 https://z02.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
 https://stream1.freetv.fun/mei-ya-dian-ying-3.m3u8
-https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 https://z02.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
@@ -483,8 +477,6 @@ https://z02.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3
 https://z02.ubtvfans.com/live/rx3/1044/40b9b1e709c0b85254f3fd3198f55b30/index.m3u8
 #EXTINF:-1 tvg-name="CATCHPLAY" group-title="其他",CATCHPLAY
 https://z02.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
-#EXTINF:-1 tvg-name="好莱坞电影" group-title="其他",好莱坞电影
-http://211.72.65.236:8554/.m3u8
 #EXTINF:-1 tvg-name="靖洋戏剧台" group-title="其他",靖洋戏剧台
 https://z02.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 http://37.27.111.214:8080/live/17/hls.m3u8
@@ -503,15 +495,9 @@ https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u
 https://z02.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="其他",Nickelodeon
 http://37.27.111.214:8080/live/12/hls.m3u8
-#EXTINF:-1 tvg-name="ELTA娱乐" group-title="其他",ELTA娱乐
-https://z02.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
-#EXTINF:-1 tvg-name="中天娱乐" group-title="其他",中天娱乐
-https://z02.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
-https://bsex.serv00.net/Smart.php?id=ctient
 #EXTINF:-1 tvg-name="中天综合" group-title="其他",中天综合
 https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 #EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
-https://z02.ubtvfans.com/live/rx1/2819/bdd3f93feceb62d903b34ac62a1f2b16/index.m3u8
 https://z02.ubtvfans.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
