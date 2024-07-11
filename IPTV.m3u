@@ -500,10 +500,6 @@ https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 #EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
 https://z02.ubtvfans.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
-https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
-#EXTINF:-1 tvg-name="三立综合台" group-title="其他",三立综合台
-https://z02.ubtvfans.com/live/rx1/2815/af61185ec308b1e29fa3e08203558e15/index.m3u8
-https://bsex.serv00.net/Smart.php?id=sanlizhonghe
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
