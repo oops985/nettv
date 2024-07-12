@@ -447,6 +447,8 @@ https://z02.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u
 rtmp://220.130.201.73/sat/tv071
 #EXTINF:-1 tvg-name="台视新闻" group-title="其他",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-name="公视戏剧" group-title="其他",公视戏剧
+http://shuma04.chunfengyun.top:8080/live/87/hls.m3u8
 #EXTINF:-1 tvg-name="ETRV中国" group-title="其他",ETRV中国
 http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
 #EXTINF:-1 tvg-name="ETRV美国" group-title="其他",ETRV美国
@@ -475,6 +477,7 @@ https://z02.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u
 https://z02.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
 #EXTINF:-1 tvg-name="AXN" group-title="其他",AXN
 https://z02.ubtvfans.com/live/rx3/1044/40b9b1e709c0b85254f3fd3198f55b30/index.m3u8
+http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1054
 #EXTINF:-1 tvg-name="CATCHPLAY" group-title="其他",CATCHPLAY
 https://z02.ubtvfans.com/live/rx1/362/b09cd35263712bc1e82bca78f002e4b8/index.m3u8
 #EXTINF:-1 tvg-name="靖洋戏剧台" group-title="其他",靖洋戏剧台
