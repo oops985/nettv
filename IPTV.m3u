@@ -40,7 +40,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 #EXTINF:-1 tvg-name="兵器科技" group-title="央视",兵器科技
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="第一剧场" group-title="央视",第一剧场
@@ -131,6 +130,8 @@ http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" group-title="卫视",海峡卫视
 http://36.248.137.69:60033/tsfile/live/0150_1.m3u8
+#EXTINF:-1 tvg-name="第一卫视" group-title="卫视",第一卫视
+http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1 tvg-name="四川经济" group-title="地方",四川经济
 http://xeace.cn:8888/udp/239.93.1.101:5140
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227415/index.m3u8
@@ -225,6 +226,10 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
 #EXTINF:-1 tvg-name="文旅频道" group-title="地方",文旅频道
 http://[2409:8087:74d9:21::6]/270000001111/1110000330/index.m3u8
+#EXTINF:-1 tvg-name="苏州4K" group-title="地方",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="南国都市" group-title="地方",南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="星光电影台" group-title="数字",星光电影台
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 #EXTINF:-1 tvg-name="爱上4K" group-title="数字",爱上4K
@@ -297,7 +302,7 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="newtv欢乐剧场" group-title="数字",欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" group-title="数字",法治天地
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/fztx_4000.m3u8
+http://xeace.cn:8888/udp/239.93.42.96:5140
 #EXTINF:-1 tvg-name="凤凰中文" group-title="卫视",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
@@ -370,6 +375,8 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-name="亚洲武侠" group-title="其他",亚洲武侠
 https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="美亞電視C+" group-title="其他",美亞電視C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="星空卫视" group-title="其他",星空卫视
 http://13457610200.8866.org:2018/live/星空卫视/index.m3u8
 https://stream1.freetv.fun/xing-kong-wei-shi-5.m3u8
@@ -503,6 +510,22 @@ https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 #EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
 https://z02.ubtvfans.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="中旺電視" group-title="其他",中旺電視
+http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+#EXTINF:-1 tvg-name="大立电视" group-title="其他",大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-name="大爱1" group-title="其他",大爱1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-name="大爱2" group-title="其他",大爱2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="人间卫视" group-title="其他",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 tvg-name="生命電視台" group-title="其他",生命電視台
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+#EXTINF:-1 tvg-name="蕃薯111" group-title="其他",蕃薯111
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
