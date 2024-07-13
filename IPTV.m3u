@@ -404,11 +404,7 @@ rtmp://220.130.201.73/sat/tv701
 #EXTINF:-1 tvg-name="纬来精采" group-title="其他",纬来精采
 https://z02.ubtvfans.com/live/rx1/2280/17f9da1e268588dea07c1369bbf9b09c/index.m3u8
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="纬来电影" group-title="其他",纬来电影
-https://z02.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
-http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1183
 #EXTINF:-1 tvg-name="纬来戏剧" group-title="其他",纬来戏剧
-https://z02.ubtvfans.com/live/rx1/2727/3adcd21480695db794231933e060b6d8/index.m3u8
 https://z02.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
 #EXTINF:-1 tvg-name="纬来体育" group-title="其他",纬来体育
 https://bsex.serv00.net/Smart.php?id=videolandsport
@@ -423,8 +419,8 @@ rtmp://220.130.201.73/sat/tv331
 http://37.27.111.214:8080/live/20/hls.m3u8
 https://z02.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
 #EXTINF:-1 tvg-name="东森电影" group-title="其他",东森电影
-https://z02.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
 https://z02.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+https://bsex.serv00.net/Smart.php?id=ettvmovie
 https://stream1.freetv.fun/dong-sen-dian-ying-5.m3u8
 #EXTINF:-1 tvg-name="东森洋片" group-title="其他",东森洋片
 https://z02.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
