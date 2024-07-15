@@ -366,6 +366,8 @@ http://cfss.cc/cdn/hy/11602043.flv
 #EXTINF:-1 tvg-name="翡翠台" group-title="其他",翡翠台
 https://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
+http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 #EXTINF:-1 tvg-name="TVBJ1" group-title="其他",TVBJ1
 https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-name="J2" group-title="其他",J2
@@ -450,6 +452,7 @@ http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="其他",民视
 https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 rtmp://220.130.201.73/sat/tv051
+http://37.27.111.214:8080/live/6/hls.m3u8
 #EXTINF:-1 tvg-name="民视第一台" group-title="其他",民视第一台
 http://37.27.111.214:8080/live/4/hls.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" group-title="其他",民视新闻台
@@ -457,9 +460,11 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-name="中视" group-title="其他",中视
 https://z02.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 rtmp://220.130.201.73/sat/tv091
+http://37.27.111.214:8080/live/7/hls.m3u8
 #EXTINF:-1 tvg-name="华视" group-title="其他",华视
 https://z02.ubtvfans.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
 rtmp://220.130.201.73/sat/tv111
+http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-name="台视" group-title="其他",台视
 https://z02.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u8
 rtmp://220.130.201.73/sat/tv071
