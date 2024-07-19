@@ -437,6 +437,7 @@ https://z02.ubtvfans.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u
 https://bsex.serv00.net/Smart.php?id=ettvdrama
 https://stream1.freetv.fun/dong-sen-xi-ju-2.m3u8
 #EXTINF:-1 tvg-name="采昌影剧" group-title="其他",采昌影剧
+http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
 https://z02.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8
 #EXTINF:-1 tvg-name="八大第一台" group-title="其他",八大第一台
 https://z02.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
@@ -450,22 +451,30 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 https://bsex.serv00.net/Smart.php?id=badazhonghe
 http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-name="民视" group-title="其他",民视
+http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
 https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 rtmp://220.130.201.73/sat/tv051
 http://37.27.111.214:8080/live/6/hls.m3u8
 https://bsex.serv00.net/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-name="民视第一台" group-title="其他",民视第一台
+http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8
 http://37.27.111.214:8080/live/4/hls.m3u8
 https://bsex.serv00.net/Smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-name="民视新闻台" group-title="其他",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=01
 #EXTINF:-1 tvg-name="中视" group-title="其他",中视
+http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
 https://z02.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
 rtmp://220.130.201.73/sat/tv091
 http://37.27.111.214:8080/live/7/hls.m3u8
 https://bsex.serv00.net/Smart.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-name="中视新闻" group-title="其他",中视新闻
+http://194.87.101.118/live.m3u8?c=6
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+http://tv.redrainl.site:9500/live.m3u8?c=02
 #EXTINF:-1 tvg-name="华视" group-title="其他",华视
+http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 https://z02.ubtvfans.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
 rtmp://220.130.201.73/sat/tv111
 http://37.27.111.214:8080/live/8/hls.m3u8
@@ -478,12 +487,14 @@ https://bsex.serv00.net/Smart.php?id=ttv_taiwan
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=11
 #EXTINF:-1 tvg-name="公视戏剧" group-title="其他",公视戏剧
+http://4gtv.mumi.rip:9877/7/4gtv-4gtv042/index.m3u8
 http://shuma04.chunfengyun.top:8080/live/87/hls.m3u8
 #EXTINF:-1 tvg-name="ETRV中国" group-title="其他",ETRV中国
 http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
 #EXTINF:-1 tvg-name="ETRV美国" group-title="其他",ETRV美国
 http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台" group-title="其他",TVBS欢乐台
+http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 http://37.27.111.214:8080/live/24/hls.m3u8
 https://bsex.serv00.net/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-name="TVBS亚洲台" group-title="其他",TVBS亚洲台
@@ -491,13 +502,21 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld" group-title="其他",CinemaWorld
+http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="其他",龙华电影
+http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
 http://37.27.111.214:8080/live/19/hls.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" group-title="其他",龙华戏剧
+http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
 https://z02.ubtvfans.com/live/rx3/365/a16a27244b8440091f776004d7b3b0fe/index.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" group-title="其他",龙华偶像
+http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
 https://z02.ubtvfans.com/live/rx1/385/6b9f9db94ecf4a1fa93ceda0b35a01da/index.m3u8
+#EXTINF:-1 tvg-name="龙华日韩" group-title="其他",龙华日韩
+http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
+http://37.27.111.214:8080/live/42/hls.m3u8
+http://shuma04.chunfengyun.top:8080/live/42/hls.m3u8
 #EXTINF:-1 tvg-name="美亚电影台" group-title="其他",美亚电影台
 https://z02.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
 https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
@@ -506,6 +525,7 @@ https://z02.ubtvfans.com/live/rx1/373/bfdc688427aa691d1baeae1fc2d1384f/index.m3u
 https://bsex.serv00.net/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="AMC" group-title="其他",AMC电影
 http://61.221.215.25:8800/hls/43/index.m3u8
+http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
 https://z02.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
 #EXTINF:-1 tvg-name="CINEMAX" group-title="其他",CINEMAX
 https://z02.ubtvfans.com/live/rx3/346/4c036b559352b19242e1b2b27c329fc7/index.m3u8
@@ -516,29 +536,43 @@ https://bsex.serv00.net/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="AXN" group-title="其他",AXN
 https://z02.ubtvfans.com/live/rx3/1044/40b9b1e709c0b85254f3fd3198f55b30/index.m3u8
 https://bsex.serv00.net/Smart.php?id=axn_twn
+#EXTINF:-1 tvg-name="ROCK Action" group-title="其他",ROCK Action
+http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
+http://37.27.111.214:8080/live/94/hls.m3u8
 #EXTINF:-1 tvg-name="靖洋戏剧台" group-title="其他",靖洋戏剧台
+http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
 https://z02.ubtvfans.com/live/rx1/319/34284625aac41ea82c5e051aee972bdb/index.m3u8
 http://37.27.111.214:8080/live/17/hls.m3u8
 #EXTINF:-1 tvg-name="靖洋卡通台" group-title="其他",靖洋卡通台
+http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
 https://z02.ubtvfans.com/live/rx1/348/f46f118edd38e34cf5f65affac4835dd/index.m3u8
+#EXTINF:-1 tvg-name="靖天卡通台" group-title="其他",靖天卡通台
+http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
 #EXTINF:-1 tvg-name="靖天电影台" group-title="其他",靖天电影台
+http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
 https://z02.ubtvfans.com/live/rx1/110/9f1bd22a531aa9ee1549daf10b3f4f72/index.m3u8
 http://37.27.111.214:8080/live/18/hls.m3u8
 #EXTINF:-1 tvg-name="靖天戏剧台" group-title="其他",靖天戏剧台
+http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
 https://z02.ubtvfans.com/live/rx1/109/a849bd2093c1a6633490ced0f66c0451/index.m3u8
 #EXTINF:-1 tvg-name="靖天日本台" group-title="其他",靖天日本台
+http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
 https://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 #EXTINF:-1 tvg-name="靖天欢乐台" group-title="其他",靖天欢乐台
+http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8
 https://z02.ubtvfans.com/live/rx1/51/c1fefa044de5d3d4efa196bd6dbf272d/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" group-title="其他",Nickelodeon
 http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 tvg-name="Nick Jr." group-title="其他",Nick Jr.
+http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8
+https://z02.ubtvfans.com/live/rx3/50/d99c73beac78ca613cac573ae7650726/index.m3u8
 #EXTINF:-1 tvg-name="中天综合" group-title="其他",中天综合
 https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 https://bsex.serv00.net/Smart.php?id=ctizhonghe
 #EXTINF:-1 tvg-name="中天新闻" group-title="其他",中天新闻
+http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 tvg-name="中视新闻" group-title="其他",中视新闻
-http://tv.redrainl.site:9500/live.m3u8?c=02
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="三立戏剧台" group-title="其他",三立戏剧台
 https://z02.ubtvfans.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
 https://bsex.serv00.net/Smart.php?id=sanlixiju_twn
